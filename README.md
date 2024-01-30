@@ -1,6 +1,9 @@
 # Add to Cart Mobile Web App
 
-Great interactive JavaScript course with Scrimba, built successfully an Add-to-Cart handy mobile web app!
+Great interactive JavaScript course with Scrimba, built successfully an Add-to-Cart fancy mobile web app!
+
+![App-view](/screenshot.png)
+![Live-site-url](https://add-to-cart-mobile-app-hassan-moa.netlify.app/)
 
 ## About Scrimba
 
