@@ -1,13 +1,7 @@
-# coc46466ab798680b94431edb
+# Add to Cart Mobile Web App
 
-Quick start:
+Great interactive JavaScript course with Scrimba, built successfully an Add-to-Cart handy mobile web app!
 
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
