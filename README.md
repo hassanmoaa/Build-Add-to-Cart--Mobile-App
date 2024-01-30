@@ -2,8 +2,9 @@
 
 Great interactive JavaScript course with Scrimba, built successfully an Add-to-Cart fancy mobile web app!
 
-![App-view](/screenshot.png)
-![Live-site-url](https://add-to-cart-mobile-app-hassan-moa.netlify.app/)
+![App-view](Screenshot.png)
+![Live-site-url]("https://add-to-cart-mobile-app-hassan-moa.netlify.app/")
+
 
 ## About Scrimba
 
